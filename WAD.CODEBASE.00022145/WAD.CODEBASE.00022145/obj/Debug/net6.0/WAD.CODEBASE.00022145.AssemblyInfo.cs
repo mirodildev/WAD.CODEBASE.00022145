@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WAD.CODEBASE.00022145")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ce68d0a2659354ecaacc9ad85c01ae909919f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ef1d70ef8c1579f413700c974c12fd048a7e5e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WAD.CODEBASE.00022145")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WAD.CODEBASE.00022145")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
