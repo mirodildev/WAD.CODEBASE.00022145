@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Uqh54yW9MA=",
+  "dgSpecHash": "+U0Du9oEJQc=",
   "success": true,
-  "projectFilePath": "C:\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj",
+  "projectFilePath": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mirodil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Mirodil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
