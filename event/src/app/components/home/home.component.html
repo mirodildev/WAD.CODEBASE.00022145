@@ -1,1 +1,38 @@
-<p>home works!</p>
+<div class="flex justify-center my-4 mx-3">
+    <table mat-table [dataSource]="items" class="mat-elevation-z8">
+        <ng-container matColumnDef="ID">
+            <th mat-header-cell *matHeaderCellDef> ID</th>
+            <td mat-cell *matCellDef="let item"> </td>
+        </ng-container>
+        <ng-container matColumnDef="Title">
+            <th mat-header-cell *matHeaderCellDef> Title </th>
+            <td mat-cell *matCellDef="let item"> {{item.Title}} </td>
+        </ng-container>
+        <ng-container matColumnDef="Description">
+            <th mat-header-cell *matHeaderCellDef> Description </th>
+            <td mat-cell *matCellDef="let item"> {{item.Description}} </td>
+        </ng-container>
+        <ng-container matColumnDef="Category Name">
+            <th mat-header-cell *matHeaderCellDef> Category Name </th>
+            <td mat-cell *matCellDef="let item"> {{item.Category.Name}} </td>
+        </ng-container>
+        <ng-container matColumnDef="Location">
+            <th mat-header-cell *matHeaderCellDef> Location </th>
+            <td mat-cell *matCellDef="let item"> {{item.Location}} </td>
+        </ng-container>
+
+        <ng-container matColumnDef="Actions">
+            <th mat-header-cell *matHeaderCellDef>Actions</th>
+            <td mat-call *matCellDef="let item">
+                <div>
+                    <button mat-raised-button color="primary" (click)="EditClicked(item.ID)">Edit</button>
+                    <button mat-raised-button color="accent" (click)="DetailsClicked(item.ID)">Details</button>
+                    <button mat-raised-button color="warn" (click)="DeleteClicked(item.ID)">Delete</button>
+                </div>
+            </td>
+                 
+        </ng-container>
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+</div>
