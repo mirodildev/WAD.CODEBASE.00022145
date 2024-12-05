@@ -32,4 +32,7 @@ export class HomeComponent {
     console.log(itemID, "From Delete")
     this.router.navigateByUrl("/delete/"+itemID);
   };
+  CreateClicked() {
+    this.router.navigateByUrl("create")
+  }
 }

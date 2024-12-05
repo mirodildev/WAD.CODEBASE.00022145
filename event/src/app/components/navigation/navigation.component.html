@@ -1,10 +1,13 @@
-<mat-toolbar color="primary" class="flex-1"> 
+<mat-toolbar color="primary" class="flex-1">
     <button mat-icon-button class="example-icon" aria-label="Home" (click)="onHomeIconClicked()">
-      <mat-icon>home</mat-icon>
- </button>
- <span >Event Manager
- • </span>
- <div class="flex justify-center my-4 mx-3">
- <button mat-raised-button (click)="CreateClicked()">Create</button>
-   </div>
- </mat-toolbar>
+        <mat-icon>home</mat-icon>
+    </button>
+    <span>Event Manager
+        • </span>
+    <div class="flex justify-center my-4 mx-3">
+        <button mat-raised-button (click)="TaskClicked()">Tasks</button>
+    </div>
+    <div class="flex justify-center my-4 mx-3">
+        <button mat-raised-button (click)="CategoryClicked()">Category</button>
+    </div>
+</mat-toolbar>
