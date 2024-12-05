@@ -2,23 +2,23 @@
     <table mat-table [dataSource]="items" class="mat-elevation-z8">
         <ng-container matColumnDef="ID">
             <th mat-header-cell *matHeaderCellDef> ID</th>
-            <td mat-cell *matCellDef="let item"> </td>
+            <td mat-cell *matCellDef="let item"> {{item.id}}  </td>
         </ng-container>
         <ng-container matColumnDef="Title">
             <th mat-header-cell *matHeaderCellDef> Title </th>
-            <td mat-cell *matCellDef="let item"> {{item.Title}} </td>
+            <td mat-cell *matCellDef="let item"> {{item.title}} </td>
         </ng-container>
         <ng-container matColumnDef="Description">
             <th mat-header-cell *matHeaderCellDef> Description </th>
-            <td mat-cell *matCellDef="let item"> {{item.Description}} </td>
+            <td mat-cell *matCellDef="let item"> {{item.description}} </td>
         </ng-container>
         <ng-container matColumnDef="Category Name">
             <th mat-header-cell *matHeaderCellDef> Category Name </th>
-            <td mat-cell *matCellDef="let item"> {{item.Category.Name}} </td>
+            <td mat-cell *matCellDef="let item"> {{item.category.name}} </td>
         </ng-container>
         <ng-container matColumnDef="Location">
             <th mat-header-cell *matHeaderCellDef> Location </th>
-            <td mat-cell *matCellDef="let item"> {{item.Location}} </td>
+            <td mat-cell *matCellDef="let item"> {{item.location}} </td>
         </ng-container>
 
         <ng-container matColumnDef="Actions">

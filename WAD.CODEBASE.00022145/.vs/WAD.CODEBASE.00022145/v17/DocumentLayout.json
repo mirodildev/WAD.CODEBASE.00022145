@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9164492A-D4A2-4E12-A18E-6CF1DC3D00A8}|WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj|c:\\wad.cw\\wad.codebase.00022145\\wad.codebase.00022145\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9164492A-D4A2-4E12-A18E-6CF1DC3D00A8}|WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj|solutionrelative:wad.codebase.00022145\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9164492A-D4A2-4E12-A18E-6CF1DC3D00A8}|WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj|c:\\wad.cw\\wad.codebase.00022145\\wad.codebase.00022145\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9164492A-D4A2-4E12-A18E-6CF1DC3D00A8}|WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj|solutionrelative:wad.codebase.00022145\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9164492A-D4A2-4E12-A18E-6CF1DC3D00A8}|WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj|c:\\wad.cw\\wad.codebase.00022145\\wad.codebase.00022145\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9164492A-D4A2-4E12-A18E-6CF1DC3D00A8}|WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj|solutionrelative:wad.codebase.00022145\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9164492A-D4A2-4E12-A18E-6CF1DC3D00A8}|WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj|c:\\wad.cw\\wad.codebase.00022145\\wad.codebase.00022145\\wad.codebase.00022145.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9164492A-D4A2-4E12-A18E-6CF1DC3D00A8}|WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj|solutionrelative:wad.codebase.00022145\\wad.codebase.00022145.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WAD.CODEBASE.00022145\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WAD.CODEBASE.00022145\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T10:48:26.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\appsettings.json",
+              "RelativeDocumentMoniker": "WAD.CODEBASE.00022145\\appsettings.json",
+              "ToolTip": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\appsettings.json",
+              "RelativeToolTip": "WAD.CODEBASE.00022145\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T10:40:42.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\Program.cs",
+              "RelativeDocumentMoniker": "WAD.CODEBASE.00022145\\Program.cs",
+              "ToolTip": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\Program.cs",
+              "RelativeToolTip": "WAD.CODEBASE.00022145\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvyQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:40:26.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\Data\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "WAD.CODEBASE.00022145\\Data\\Controllers\\CategoryController.cs",
@@ -34,25 +85,24 @@
               "RelativeToolTip": "WAD.CODEBASE.00022145\\Data\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T12:25:49.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T12:25:49.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WAD.CODEBASE.00022145",
+              "DocumentIndex": 3,
+              "Title": "WAD.CODEBASE.00022145.csproj",
               "DocumentMoniker": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj",
               "RelativeDocumentMoniker": "WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj",
               "ToolTip": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj",
               "RelativeToolTip": "WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-04T12:04:09.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\WAD.CW\\WAD.CODEBASE.00022145\\WAD.CODEBASE.00022145\\Models\\Category.cs",
               "RelativeDocumentMoniker": "WAD.CODEBASE.00022145\\Models\\Category.cs",
@@ -60,8 +110,7 @@
               "RelativeToolTip": "WAD.CODEBASE.00022145\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T12:04:13.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T12:04:13.44Z"
             }
           ]
         }

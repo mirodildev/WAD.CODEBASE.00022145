@@ -1,11 +1,11 @@
 export interface Event {
-    ID: number;
-    Title: string;
-    Description: string;
-    CategoryID: number;
-    Location: string;
-    Category: {
-        ID: number;
-        Name: string;
+    id: number;
+    title: string;
+    description: string;
+    categoryID: number;
+    location: string;
+    category: {
+        id: number;
+        name: string;
     }
 }
