@@ -1,5 +1,6 @@
 this is web application development coursework
-
+"This application was developed for Web
+Application module, as coursework portfolio project @ WIUT by student ID: 00022145
 # Event Manager
 
 Welcome to the Event Manager project! This repository contains the codebase for a full-stack application that allows users to manage and organize events effectively. The backend is built using ASP.NET Core Web API, and the frontend is developed with Angular.
