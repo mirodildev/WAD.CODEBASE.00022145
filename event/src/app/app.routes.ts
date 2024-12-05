@@ -4,6 +4,7 @@ import { DetailsComponent } from './components/details/details.component';
 import { DeleteComponent } from './components/delete/delete.component';
 import { EditComponent } from './components/edit/edit.component';
 import { Component } from '@angular/core';
+import { CreateComponent } from './components/create/create.component';
 
 export const routes: Routes = [
 {
@@ -28,6 +29,12 @@ export const routes: Routes = [
 {
     path:"delete/:id",
     component:DeleteComponent
+
+},
+
+{
+    path:"create",
+    component:CreateComponent
 
 }
 ];
