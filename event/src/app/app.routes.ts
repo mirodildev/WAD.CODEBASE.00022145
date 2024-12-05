@@ -16,17 +16,17 @@ export const routes: Routes = [
 
 },
 {
-    path:"edit/.id",
+    path:"edit/:id",
     component:EditComponent
 
 },
 {
-    path:"details/.id",
+    path:"details/:id",
     component:DetailsComponent
 
 },
 {
-    path:"eddelete/.id",
+    path:"delete/:id",
     component:DeleteComponent
 
 }
